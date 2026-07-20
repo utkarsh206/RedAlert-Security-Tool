@@ -52,3 +52,11 @@ Encrypting important files message will appear...
 
 ![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160032.png) 
 
+
+# Fifth step of execution---
+
+Your files have been encrypted message will appear...  
+
+Ransomware amount and wallet address will be there...
+
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160053.png) 
