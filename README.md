@@ -68,4 +68,10 @@ A fake message will be shown saying that your time is over, your files will be d
 
 ![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160117.png) 
 
+# Seventh step of execution---
+
+A masseage will appear saying that your system is completely safe, no files were harmed...
+
+
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160138.png) 
 
