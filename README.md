@@ -7,3 +7,6 @@ This is a harmless file which will not affect your system,
 This batch file includes fake hacking boot process, ramsomware warning screen,fake encryption process, fake file list, fake ramsomware demand screen,
 So just download this file and enjoy,
 Thank you...
+
+
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20155854.png?raw=true)) 
