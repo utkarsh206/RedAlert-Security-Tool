@@ -1,0 +1,9 @@
+Hello guys,
+I welcome all of you,
+My name is Utkarsh Shrivastava,
+I have created a fake ramsomware hacking simulation prank which is only a progarm,
+All of the commands are there in this program are just a batch scripting,
+This is a harmless file which will not affect your system,
+This batch file includes fake hacking boot process, ramsomware warning screen,fake encryption process, fake file list, fake ramsomware demand screen,
+So just download this file and enjoy,
+Thank you...
