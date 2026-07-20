@@ -9,7 +9,7 @@ So just download this file and enjoy,
 Thank you...
 
 
-# H1 First step of execution---  
+# First step of execution---  
 
 Initializing security breach...  
 
@@ -17,15 +17,20 @@ Connecting to remote server...
 
 Injecting payload...  
 
-and access granted message will appear...  
-
-![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20155854.png?raw=true) 
-
-
-# Second step of execution---
+and access granted message will appear... 
 
 Warning screen...  
 
 Your system has been compromised message will appear...   
 
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20155854.png?raw=true)  
+
+
 ![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20155933.png?raw=true) 
+
+
+
+
+# Second step of execution---
+.   
+
