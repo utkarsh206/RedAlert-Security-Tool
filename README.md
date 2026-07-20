@@ -60,3 +60,12 @@ Your files have been encrypted message will appear...
 Ransomware amount and wallet address will be there...
 
 ![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160053.png) 
+
+
+# Sixth step of execution---
+
+A fake message will be shown saying that your time is over, your files will be deleted forever, send the ransomware...
+
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160117.png) 
+
+
