@@ -37,3 +37,11 @@ Your system has been compromised message will appear...
 
 ![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20155951.png) 
 
+
+
+# Thirdstep of execution---
+
+Encrypting files message will appear...
+
+![Image Alt](https://github.com/utkarsh206/RedAlert-Security-Tool/blob/main/Screenshot%202026-07-20%20160010.png) 
+
